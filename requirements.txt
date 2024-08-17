@@ -6,3 +6,6 @@ langsmith
 bs4
 langchain_community
 chromadb
+langgraph
+langchain-experimental
+langgraph-checkpoint-sqlite

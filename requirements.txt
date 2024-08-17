@@ -3,3 +3,6 @@ langchain
 langchain-openai
 ipykernel
 langsmith
+bs4
+langchain_community
+chromadb
